@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bomberman", "WpfApp2\Bomberman.csproj", "{FCEF15EA-7FAE-4BBC-B59C-13A3AABE6AD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bomberman", "Bomberman\Bomberman.csproj", "{FCEF15EA-7FAE-4BBC-B59C-13A3AABE6AD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
